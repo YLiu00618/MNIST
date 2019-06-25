@@ -1,11 +1,11 @@
 # MNIST
 
 Explore the behaviors of five supervised learning techniques on the MNIST dataset and a simple toy dataset.
-1). decision trees (DT),
-2). neural networks (NN),
-3). boosted trees (BST-DT),
-4). support vector machines (SVM),
-5). k-nearest neighbors (kNN).
+- 1). decision trees (DT),
+- 2). neural networks (NN),
+- 3). boosted trees (BST-DT),
+- 4). support vector machines (SVM),
+- 5). k-nearest neighbors (kNN).
 
 ### Usage
 - To run experiments, run `MNIST_ML.py`
