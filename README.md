@@ -1,6 +1,6 @@
 # MNIST
 
-Explore the behaviors of five supervised learning techniques on the MNIST dataset and a simple toy dataset.
+Explore the behaviors of five supervised learning techniques on the MNIST dataset and a toy dataset.
 - 1). decision trees (DT),
 - 2). neural networks (NN),
 - 3). boosted trees (BST-DT),
